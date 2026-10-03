@@ -29,12 +29,12 @@
     },
     {
       "path": "runtime/trsenc-manager.exe",
-      "sha256": "ea267f3bf07b51611117a420878698f428ce915cc4eb9939ee3b8e1b26e7a738",
-      "size": 429056
+      "sha256": "2ed8c7bd162e5798b094a1a9cc9719c80fb4b6043056be726bf99d265892ffee",
+      "size": 437760
     },
     {
       "path": "runtime/trsenc-manager.exe.sig",
-      "sha256": "f2a3eee20ce7333e1014347a99e3e66cb1602dc3a6626a4bb4b7cb3612e85fa7",
+      "sha256": "c92fd535eb02073a9efeafcdfe3ddd2cf2caf7ae5f0f60a60200771f705b82e0",
       "size": 268
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "path": "runtime/web/index.html",
-      "sha256": "d9f2e9448ecec9a0cccdbcc5f55dc2632ade33793cc2ddfa834fd1a2d8a06f86",
+      "sha256": "daaf3e596c45a7262794afeb7575c9a3b9d81c975767fb1147cbdc544500589f",
       "size": 1407363
     }
   ]
