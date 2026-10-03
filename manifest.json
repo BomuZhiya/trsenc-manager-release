@@ -1,6 +1,6 @@
 {
   "magic": "TRSEUPD1",
-  "version": "2.45",
+  "version": "2.46",
   "files": [
     {
       "path": "runtime/WebView2Loader.dll",
