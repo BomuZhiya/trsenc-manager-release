@@ -1,0 +1,66 @@
+{
+  "magic": "TRSEUPD1",
+  "version": "2.45",
+  "files": [
+    {
+      "path": "runtime/WebView2Loader.dll",
+      "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+      "size": 194912
+    },
+    {
+      "path": "runtime/trsechook.dll",
+      "sha256": "a0a4d0b9d50726f8a5bd7da403acc150200b2340fdafb6e83585f8b0adb77610",
+      "size": 245248
+    },
+    {
+      "path": "runtime/trsechook.dll.sig",
+      "sha256": "5f2afe730a13da970641b7ba4631837e527bb6a2fd6896833a3d8ea77279e394",
+      "size": 268
+    },
+    {
+      "path": "runtime/trsenc-launcher.exe",
+      "sha256": "68facc1e43936ccdd915f1559c910b6dc2ee675861757ceb3567476243c6024a",
+      "size": 455680
+    },
+    {
+      "path": "runtime/trsenc-launcher.exe.sig",
+      "sha256": "be04d30c0755949dbcae5a1b18ece4dec566e31b4afbaf057c3c8c871e642330",
+      "size": 268
+    },
+    {
+      "path": "runtime/trsenc-manager.exe",
+      "sha256": "ea267f3bf07b51611117a420878698f428ce915cc4eb9939ee3b8e1b26e7a738",
+      "size": 429056
+    },
+    {
+      "path": "runtime/trsenc-manager.exe.sig",
+      "sha256": "f2a3eee20ce7333e1014347a99e3e66cb1602dc3a6626a4bb4b7cb3612e85fa7",
+      "size": 268
+    },
+    {
+      "path": "runtime/trsenc-watchdog.exe",
+      "sha256": "530a78c3ac03ea85407efd61eb016b547de4d96170b18a55a1f66a2fe501ee55",
+      "size": 431104
+    },
+    {
+      "path": "runtime/trsenc-watchdog.exe.sig",
+      "sha256": "a27f1891d76f275dfb1511f55f14f6b9899f00d2fe65a99dd8aeb248aa602299",
+      "size": 268
+    },
+    {
+      "path": "runtime/trsenc.exe",
+      "sha256": "b11b263bf34d1e9a4de027d28cac4147e5bc760778530c0e7910e6539cda9d43",
+      "size": 478208
+    },
+    {
+      "path": "runtime/trsenc.exe.sig",
+      "sha256": "22e94b2a1dfa37176197ff183bd51ce46fbd3fdeb474d5e346c200e1af9ef69c",
+      "size": 268
+    },
+    {
+      "path": "runtime/web/index.html",
+      "sha256": "d9f2e9448ecec9a0cccdbcc5f55dc2632ade33793cc2ddfa834fd1a2d8a06f86",
+      "size": 1407363
+    }
+  ]
+}
