@@ -1,17 +1,7 @@
 {
   "magic": "TRSEUPD1",
-  "version": "2.47",
+  "version": "2.471",
   "files": [
-    {
-      "path": "manifest.json",
-      "sha256": "91e2ebc95ffdad933e15e2dfb6d87cf84d32b6d49d1c7c9289885d0200d80d67",
-      "size": 1987
-    },
-    {
-      "path": "manifest.sig",
-      "sha256": "9ca3b1229d811331884c3c628b3bbd0c369ed6b5667aa03b1c22400395c67dfd",
-      "size": 256
-    },
     {
       "path": "runtime/WebView2Loader.dll",
       "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
@@ -19,13 +9,13 @@
     },
     {
       "path": "runtime/trsechook.dll",
-      "sha256": "ceeacdee0efea39834fb5d70697d7537ba9debda09038762116b6b18c61f5204",
-      "size": 245248
+      "sha256": "1c1e577e6d8ceca017136f6c744c8f4aa0fb55e3639cd1ce2d7c7464d83cd1e1",
+      "size": 245760
     },
     {
       "path": "runtime/trsechook.dll.sig",
-      "sha256": "827acf5067c74517358c8a845b906e3a7854fb4e03d116e01001f7aea6e8b15e",
-      "size": 256
+      "sha256": "aed006a4dcfc92a646326e00222200c958c2e45209909e43be970c01470b8723",
+      "size": 268
     },
     {
       "path": "runtime/trsenc-launcher.exe",
@@ -34,18 +24,18 @@
     },
     {
       "path": "runtime/trsenc-launcher.exe.sig",
-      "sha256": "0173b73010e1c2452a5b4829e34b8e06065d653e0fc322f150ba2d04906cb080",
-      "size": 256
+      "sha256": "be04d30c0755949dbcae5a1b18ece4dec566e31b4afbaf057c3c8c871e642330",
+      "size": 268
     },
     {
       "path": "runtime/trsenc-manager.exe",
-      "sha256": "5674c0a61f3a3309384e805f997e922ac053c773e80407e88ca46afa31170820",
+      "sha256": "da6ae66a4c630c5cb6c0d3175a8bc2b3e82ebb2a1a7b116ec7a28e202e610992",
       "size": 437760
     },
     {
       "path": "runtime/trsenc-manager.exe.sig",
-      "sha256": "75c43b472fc8e623cff0567b937091b0f6df37ffa7f4489adf78fa8158ab4d10",
-      "size": 256
+      "sha256": "5817cb6105d8f288cd2ed190eccab63e3da8f237a76cef2c8fbc713541f6a16a",
+      "size": 268
     },
     {
       "path": "runtime/trsenc-watchdog.exe",
@@ -54,8 +44,8 @@
     },
     {
       "path": "runtime/trsenc-watchdog.exe.sig",
-      "sha256": "d4b2ad241f4a0b7239ca741972973c82e215723802520c2f95df11da3bba9962",
-      "size": 256
+      "sha256": "a27f1891d76f275dfb1511f55f14f6b9899f00d2fe65a99dd8aeb248aa602299",
+      "size": 268
     },
     {
       "path": "runtime/trsenc.exe",
@@ -64,13 +54,13 @@
     },
     {
       "path": "runtime/trsenc.exe.sig",
-      "sha256": "15e92293ff11acd7bd978055659eaeba397cda4f17a18c3c546eac4e6bd0df07",
-      "size": 256
+      "sha256": "22e94b2a1dfa37176197ff183bd51ce46fbd3fdeb474d5e346c200e1af9ef69c",
+      "size": 268
     },
     {
       "path": "runtime/web/index.html",
-      "sha256": "9495118b66e66ab156df66d085ffbe2f156cb0bb9c4409ff44fcce9bd5aeb4f6",
-      "size": 1407363
+      "sha256": "fbb269732052e918128385deda64bcf108d809e71ea89b442590378b0cd1c62d",
+      "size": 1407365
     }
   ]
 }
