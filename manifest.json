@@ -1,15 +1,15 @@
 {
   "magic": "TRSEUPD1",
-  "version": "2.474",
+  "version": "2.475",
   "files": [
     {
       "path": "runtime/trsenc-manager.exe",
-      "sha256": "2c3b8b6cbcabd6e090b5b83d10a0688369bdc542bf38ca8b7b8bb4b891e5e6c2",
+      "sha256": "cde2b006651fc9c9792ee96251656e44e3887f7e6c08ec285040edcd7119b26e",
       "size": 437760
     },
     {
       "path": "runtime/trsenc-manager.exe.sig",
-      "sha256": "396bcb2cf02bb67b5fb1b4d2c4ada2a415cbb7f0e1c74de4a210dbf03e6b7da1",
+      "sha256": "3c1bd02f63ee5718ee7030871de3ac1873acef03af99d12f5d93922fa84a10c8",
       "size": 268
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "path": "runtime/web/index.html",
-      "sha256": "b3d4cc5fe98595ed94e67dc7916074fb0781b06e58076e88d6fa8c86ee5e951d",
+      "sha256": "980bcb596086123e7bdf78fb63c223ed09bf5ef353de5e898dbac285b1ee29a8",
       "size": 4892556
     },
     {
@@ -54,12 +54,12 @@
     },
     {
       "path": "runtime/trsechook.dll",
-      "sha256": "15e7df37a90d352ab3f0abf89f1bb5041084d5d9786c8778da8d446e3c6a5434",
-      "size": 248832
+      "sha256": "af3bb60fe55d224fea762b364736b2d68429eff8d0f683ddea5101b172a73139",
+      "size": 248320
     },
     {
       "path": "runtime/trsechook.dll.sig",
-      "sha256": "d9f3028b67c8c74f3c92ce5e1a44daf2de31d42672c322eb2ac1eb767e6e6a90",
+      "sha256": "4e0c360113bac3a22018940567bc650ec59f99eec80125c45e5161c354c47c6f",
       "size": 268
     }
   ]
