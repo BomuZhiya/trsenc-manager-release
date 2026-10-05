@@ -1,15 +1,15 @@
 {
   "magic": "TRSEUPD1",
-  "version": "2.472",
+  "version": "2.473",
   "files": [
     {
       "path": "runtime/trsenc-manager.exe",
-      "sha256": "04cd156fc3c152332336746bb0d7b69f3187d87facfbd57d820c192ea1bfe81b",
+      "sha256": "b06e3d6868630a98ec25a007c42feff2ad6c270cf91c7fb0f3df1ec0e57925d5",
       "size": 437760
     },
     {
       "path": "runtime/trsenc-manager.exe.sig",
-      "sha256": "548cf86ee5b9ff9fa5f8ec9bf0f3149a27223b5fe7b9fd424f152e65186de99a",
+      "sha256": "37587980ad91a7afc2fa1ccb3be4fd9c4172ddc140fb395d7c6b6d0455c44727",
       "size": 268
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "path": "runtime/web/index.html",
-      "sha256": "542a7690db078b4e366c2017da04aa7309a09b746b24304fe2b37bd27076e458",
-      "size": 4889682
+      "sha256": "a8bf83979e5e1008304227c81d49ec4cf7d024b044cd8c5fe99fc4f8adb07e11",
+      "size": 4892556
     },
     {
       "path": "runtime/trsenc.exe",
